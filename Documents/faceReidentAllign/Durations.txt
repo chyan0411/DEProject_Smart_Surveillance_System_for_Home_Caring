@@ -1,0 +1,876 @@
+Whole Loop: 7.84s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 4.93s
+Show: 2.90s
+
+Whole Loop: 0.75s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.25s
+
+Whole Loop: 0.77s
+Capture: 0.00s
+Prepare: 0.04s
+Process: 0.50s
+Show: 0.23s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.26s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.26s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.27s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.27s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.82s
+Capture: 0.00s
+Prepare: 0.04s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.82s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.52s
+Show: 0.27s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.50s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.50s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.50s
+Show: 0.28s
+
+Whole Loop: 8.35s
+Capture: 0.00s
+Prepare: 0.07s
+Process: 5.13s
+Show: 3.14s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.05s
+Process: 0.49s
+Show: 0.24s
+
+Whole Loop: 0.73s
+Capture: 0.00s
+Prepare: 0.04s
+Process: 0.49s
+Show: 0.19s
+
+Whole Loop: 0.77s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.26s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.49s
+Show: 0.27s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.77s
+Capture: 0.00s
+Prepare: 0.04s
+Process: 0.50s
+Show: 0.23s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.50s
+Show: 0.27s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.82s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.49s
+Show: 0.32s
+
+Whole Loop: 0.76s
+Capture: 0.00s
+Prepare: 0.04s
+Process: 0.50s
+Show: 0.23s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.29s
+
+Whole Loop: 0.76s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.25s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.27s
+
+Whole Loop: 0.77s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.26s
+
+Whole Loop: 0.76s
+Capture: 0.00s
+Prepare: 0.04s
+Process: 0.49s
+Show: 0.23s
+
+Whole Loop: 0.74s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.23s
+
+Whole Loop: 0.76s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.50s
+Show: 0.24s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.77s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.49s
+Show: 0.27s
+
+Whole Loop: 0.76s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.23s
+
+Whole Loop: 0.82s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.30s
+
+Whole Loop: 0.78s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.01s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 5.22s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 5.00s
+Show: 0.21s
+
+Whole Loop: 0.72s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.50s
+Show: 0.19s
+
+Whole Loop: 0.68s
+Capture: 0.00s
+Prepare: 0.04s
+Process: 0.49s
+Show: 0.14s
+
+Whole Loop: 0.67s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.50s
+Show: 0.14s
+
+Whole Loop: 0.73s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.22s
+
+Whole Loop: 0.70s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.19s
+
+Whole Loop: 0.66s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.14s
+
+Whole Loop: 0.69s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.50s
+Show: 0.17s
+
+Whole Loop: 0.70s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.19s
+
+Whole Loop: 0.66s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.14s
+
+Whole Loop: 3.61s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 3.09s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.50s
+Show: 0.29s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.29s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.79s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.29s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.82s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.30s
+
+Whole Loop: 0.84s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.50s
+Show: 0.31s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.80s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.28s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.30s
+
+Whole Loop: 0.82s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.81s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.49s
+Show: 0.29s
+
+Whole Loop: 0.70s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.19s
+
+Whole Loop: 0.64s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.13s
+
+Whole Loop: 0.66s
+Capture: 0.00s
+Prepare: 0.03s
+Process: 0.50s
+Show: 0.13s
+
+Whole Loop: 0.72s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.20s
+
+Whole Loop: 0.74s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.49s
+Show: 0.23s
+
+Whole Loop: 0.68s
+Capture: 0.00s
+Prepare: 0.04s
+Process: 0.49s
+Show: 0.15s
+
+Whole Loop: 0.74s
+Capture: 0.00s
+Prepare: 0.02s
+Process: 0.50s
+Show: 0.23s
+

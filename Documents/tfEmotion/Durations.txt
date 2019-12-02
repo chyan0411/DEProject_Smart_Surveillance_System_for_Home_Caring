@@ -1,0 +1,655 @@
+capture and prepare: 0.01s
+Face detection: 2.02s
+Emotion detection: 0.00s
+Whole Loop: 2.03s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.08s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.08s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.03s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.10s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.08s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.52s
+Whole Loop: 0.59s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.04s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.03s
+Face detection: 0.06s
+Emotion detection: 0.09s
+Whole Loop: 0.18s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.07s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.07s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.07s
+Whole Loop: 0.14s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.13s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.09s
+Whole Loop: 0.17s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.08s
+Whole Loop: 0.14s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.13s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.04s
+Whole Loop: 0.11s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.05s
+Whole Loop: 0.12s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.08s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.02s
+Face detection: 0.06s
+Emotion detection: 0.01s
+Whole Loop: 0.09s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+
+capture and prepare: 0.01s
+Face detection: 0.06s
+Emotion detection: 0.00s
+Whole Loop: 0.07s
+

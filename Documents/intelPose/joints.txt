@@ -1,0 +1,18 @@
+0: nose
+1: chest
+2: shoulder, right
+3: elbow, right
+4: wrist, right
+5: shoulder, left
+6: elbow, left
+7: wrist, left
+8: hip, right
+9: knee, right
+10: ankle, right
+11: hip, left
+12: knee, left
+13: ankle, left
+14: eye, right
+15: eye, left
+16: ear, right
+17: ear, left
